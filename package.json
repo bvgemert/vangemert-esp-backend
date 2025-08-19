@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/bvgemert/vangemert-esp-backend#readme",
   "dependencies": {
+    "@aws-sdk/client-sesv2": "^3.864.0",
     "express": "^5.1.0"
   },
   "devDependencies": {
